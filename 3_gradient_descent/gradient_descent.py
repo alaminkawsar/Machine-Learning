@@ -2,7 +2,7 @@ import numpy as np
 
 def gradient_descent(x,y):
     iterations=10000
-    learning_rate = 0.08
+    learning_rate = 0.07
     n = len(x)
     m_curr=b_curr=0
 
